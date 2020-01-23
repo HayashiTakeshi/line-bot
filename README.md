@@ -3,3 +3,4 @@
 
 # 友だち登録
 友だち登録する際には、LINEで以下のQRコードを読み込んでください。
+![QRコード](https://github.com/HayashiTakeshi/line-bot/blob/master/qr%E3%82%B3%E3%83%BC%E3%83%89.png?raw=true)
